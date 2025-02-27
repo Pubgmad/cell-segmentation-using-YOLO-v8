@@ -14,4 +14,15 @@ Steps:
                command:pip install -r requirements.txt
     
     4) Setup.py is used to create local packages and functions so in that add your name email_id(personal one) and the version 0.0.0 
-    5)
+    5) Utils folder just add the frequent code which you need to implement on a regular basis.
+
+    6) ## Workflows
+
+            1. constants
+            2. entity
+            3. components
+            4. pipelines
+            5. app.py
+
+    7) for loading the images we  need to first annotate the image and then only segmentation is possible, so do it using a frame work called robo flow which is available in google.
+    

@@ -6,3 +6,4 @@ flask-cors
 flask
 ultralytics==8.0.28
 -e .
+shutil
